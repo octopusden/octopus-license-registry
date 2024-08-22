@@ -1,0 +1,14 @@
+MIT|MIT License|The MIT License|The MIT license|MIT license|The MIT License (MIT)
+Apache-2.0|Apache Software License, Version 2.0|The Apache Software License, Version 2.0|Apache License, Version 2.0|Apache Software License 2.0|The Apache Software License, version 2.0|Apache 2|Apache 2.0|Apache License|Apache License 2.0|The Apache License, Version 2.0|Apache License, version 2.0|ASF 2.0|Apache License Version 2.0|Apache Software License - Version 2.0|AL 2.0|Apache|Apache Software License, version 2.0|Apache Public License 2.0|Apache 2.0 License|Apache v2|Apache License, Version 2.0 and Common Development And Distribution License (CDDL) Version 1.0|JSR-000107 JCACHE 2.9 Public Review - Updated Specification License|Apache  Version 2.0, January 2004|The Apache v2 License|Apache 2 License|Apache Software Licenses|http://www.apache.org/licenses/LICENSE-2.0.txt|Similar to Apache License but with the acknowledgment clause removed
+Apache-1.1|Apache Software License, Version 1.1|Apache Software Licesne, version 1.1|The Apache Software License, Version 1.1
+CDDL-1.0|CDDL|Common Development and Distribution License (CDDL) v1.0|COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0|CDDL-1.0-GPL-2.0|CDDL + GPLv2 with classpath exception|CDDL-1.0-GPL-2.0-CPE|Common Development and Distribution License|CDDL License|Common Development And Distribution License (CDDL) Version 1.0|Dual license consisting of the CDDL v1.0 and GPL v2
+CDDL-1.1|CDDL 1.1|CDDL-1.1-GPL-2.0-CPE|CDDL/GPLv2+CE|Dual license consisting of the CDDL v1.1 and GPL v2|CDDL+GPL License
+PUBLIC-DOMAIN|Public Domain
+EPL-1.0|Eclipse Public License - v 1.0|Eclipse Public License 1.0|Eclipse Public License, Version 1.0|Eclipse Public License (EPL), Version 1.0|Eclipse Public License (EPL)|Eclipse Public License v1.0
+EPL-2.0|Eclipse Public License - v 2.0|Eclipse Public License v2.0
+EDL-1.0|Eclipse Distribution License (New BSD License)|Eclipse Distribution License (EDL), Version 1.0|Eclipse Distribution License - v 1.0|EDL 1.0
+LGPL-2.1|LGPL 2.1|LPGL|GNU Lesser General Public License|GNU Lesser General Public License 2.1|GNU Lesser General Public License (LGPL), version 2.1|GNU Lesser General Public License, version 2.1|GNU Lesser Public License|LGPL, version 2.1|lgpl|The GNU Lesser General Public License, Version 2.1|GNU LESSER GENERAL PUBLIC LICENSE 2.1|GNU Library General Public License v2.1
+LGPL-3.0|GNU Lesser General Public License 3.0|GNU LESSER GENERAL PUBLIC LICENSE
+Bouncy Castle Licence|Bouncy Castle License
+GPL-2.0-cpe|GPL2 w/ CPE|GNU General Public License, Version 2 with the Classpath Exception|GNU General Public License (GPL), version 2, with the Classpath exception|GPL v2 with the Classpath exception
+
